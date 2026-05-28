@@ -24,8 +24,8 @@
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/akshit-phonsa/))
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]([YOUR_GITHUB_LINK](https://github.com/akshit-phonsa/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome)](portfolio-vue-inky-iota.vercel.app)
+ [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]([YOUR_GITHUB_LINK](https://github.com/akshit-phonsa/))
+ [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome)](portfolio-vue-inky-iota.vercel.app)
 
 
 
