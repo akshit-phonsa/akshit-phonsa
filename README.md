@@ -23,19 +23,16 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
-<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/akshit-phonsa/)" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+```md
+### 🌐 Connect With Me
 
-<a href="[YOUR_GITHUB_LINK](https://github.com/akshit-phonsa/)" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/akshit-phonsa/))
 
-<a href="portfolio-vue-inky-iota.vercel.app" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="30" width="40" />
-</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]([YOUR_GITHUB_LINK](https://github.com/akshit-phonsa/))
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome)](portfolio-vue-inky-iota.vercel.app)
+```
+
 
 ---
 
