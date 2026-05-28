@@ -16,7 +16,7 @@
 - 🔭 Building scalable backend applications using **Spring Boot**
 - 💬 Ask me about **Java, Spring Boot, React, MongoDB, MySQL, Neo4j**
 - ⚡ Love solving backend challenges & designing scalable systems
-- 👨‍💻 Portfolio: **Add your portfolio link here**
+- 👨‍💻 Portfolio: **portfolio-vue-inky-iota.vercel.app**
 - 📫 Reach me at: **phonsaakshit@gmail.com**
 
 ---
